@@ -9,7 +9,7 @@
 *   🌍  Я из Москвы
 *   🖥️  Посмотреть моё портофолио можно здесь [My projects](http://github.com/YanikMax?tab=repositories)
 *   ✉️  You can contact me at [janmaximov@gmail.com](mailto:janmaximov@gmail.com)
-*   
+  
 ### Skills
 
 <p align="left">

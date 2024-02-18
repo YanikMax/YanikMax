@@ -1,7 +1,7 @@
 Привет! Меня зовут Ян
 ====================================================================================================================================
 
-iOS-developer from Russia
+Начинающий iOS-разработчик
 -------------------------
 
 I've been learning to program for the last 10 months. I have successfully completed the iOS developer course and continue to improve my skills

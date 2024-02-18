@@ -4,7 +4,7 @@
 Начинающий iOS-разработчик
 -------------------------
 
-I've been learning to program for the last 10 months. I have successfully completed the iOS developer course and continue to improve my skills
+Я учусь программировать последние 10 месяцев. Успешно окончил курс iOS-разработчика от ЯндексПрактикума и продолжаю совершенствовать свои навыки
 
 *   🌍  I'm based in Moscow
 *   🖥️  See my portfolio at [My projects](http://github.com/YanikMax?tab=repositories)

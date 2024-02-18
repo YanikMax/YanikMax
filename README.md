@@ -16,12 +16,11 @@
 * 🖥️ Посмотреть мои проекты можно [здесь](http://github.com/YanikMax?tab=repositories)
   
 ### Навыки
-
 <p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="352" height="40" alt="Swift" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="52" height="40" alt="Figma" /></a>
 </p>
 
-### Связаться со мной:
-<div align="left"><a href="https://t.me/yanikmax" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="36" height="36" alt="telegram logo"  /></a><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=janmaximov@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="36" alt="gmail logo"  /><a></div>
+### Связаться со мной
+<div align="left"><a href="https://t.me/yanikmax" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=janmaximov@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /><a></div>
 <div align="left">
 <a href="http://www.github.com/YanikMax"><img src="https://github-readme-stats.vercel.app/api?username=visaeva&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=10b981&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="visaeva's GitHub stats" /></a>

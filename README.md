@@ -23,4 +23,4 @@
 ### Связаться со мной
 <div align="left"><a href="https://t.me/yanikmax" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=janmaximov@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /><a></div>
 <div align="left">
-<a href="http://www.github.com/YanikMax"><img src="https://github-readme-stats.vercel.app/api?username=visaeva&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=10b981&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="visaeva's GitHub stats" /></a>
+<a href="http://www.github.com/YanikMax"><img src="https://github-readme-stats.vercel.app/api?username=YanikMax&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=10b981&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="YanikMax's GitHub stats" /></a>

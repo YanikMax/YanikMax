@@ -19,19 +19,18 @@
 <p align="left">
   <a href="https://developer.apple.com/swift/">
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
-  </a>
+
   <a href="https://developer.apple.com/xcode/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  </a>
+
   <a href="https://www.figma.com/">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
+
   <a href="https://www.getpostman.com/">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
+
   <a href="https://github.com/">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-  </a>
 </p>
 
 ### Связаться со мной

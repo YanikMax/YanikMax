@@ -17,10 +17,10 @@
   
 ### Навыки
 <p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank">
+  <a href="https://developer.apple.com/swift/">
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
   </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank">
+  <a href="https://developer.apple.com/xcode/">
     <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="Xcode" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">

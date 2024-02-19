@@ -21,7 +21,7 @@
     <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/xcode/">
-    <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="Xcode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   </a>
   <a href="https://www.figma.com/">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
